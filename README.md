@@ -1,8 +1,8 @@
 ## Hi! I'm Liliam Oliveira, welcome! 🚀 
 
-- 🎓👩‍🎓-----Graduated in Design
-- 📚💻🚀--Studying programming (FullStack)
-- 👩-------Pronouns: she/her
+- 👩‍🎓--------- Graduated in Design
+- 📚💻🚀-- Studying programming (FullStack)
+- 👩--------- Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/Liliam-Oliveira">
